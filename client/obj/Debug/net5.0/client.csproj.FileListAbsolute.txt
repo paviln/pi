@@ -1,0 +1,16 @@
+/home/paviln/Code/pi/client/bin/Debug/net5.0/client
+/home/paviln/Code/pi/client/bin/Debug/net5.0/client.deps.json
+/home/paviln/Code/pi/client/bin/Debug/net5.0/client.runtimeconfig.json
+/home/paviln/Code/pi/client/bin/Debug/net5.0/client.runtimeconfig.dev.json
+/home/paviln/Code/pi/client/bin/Debug/net5.0/client.dll
+/home/paviln/Code/pi/client/bin/Debug/net5.0/ref/client.dll
+/home/paviln/Code/pi/client/bin/Debug/net5.0/client.pdb
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.csprojAssemblyReference.cache
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.AssemblyInfoInputs.cache
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.AssemblyInfo.cs
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.csproj.CoreCompileInputs.cache
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.dll
+/home/paviln/Code/pi/client/obj/Debug/net5.0/ref/client.dll
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.pdb
+/home/paviln/Code/pi/client/obj/Debug/net5.0/client.genruntimeconfig.cache
